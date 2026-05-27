@@ -13,7 +13,6 @@
 ## 🌐 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/amit-rastogi-313448293/
-- LeetCode: https://leetcode.com/u/Rastogi_23/
 
 ---
 
@@ -40,12 +39,6 @@
 ## 💻 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitRastogi23&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 LeetCode
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rastogi_23?theme=dark&font=Nunito)
 
 ---
 
