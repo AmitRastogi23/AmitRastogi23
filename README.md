@@ -12,12 +12,16 @@ Full Stack Developer | DSA Enthusiast | Backend Development Explorer 🚀
   <img src="https://komarev.com/ghpvc/?username=AmitRastogi23&color=0e75b6&style=flat" />
 </p>
 
+---
+
 ## 🚀 About Me
 - 🎓 BTech Student  
 - 💻 Full Stack Web Development Enthusiast  
 - ⚡ Strong interest in Data Structures & Algorithms  
 - 🚀 Building scalable real-world projects  
-- 🌱 Exploring modern backend systems  
+- 🌱 Exploring modern backend systems
+
+---
 
 ## 🚀 Tech Stack
 
@@ -46,16 +50,22 @@ Full Stack Developer | DSA Enthusiast | Backend Development Explorer 🚀
   <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
 </p>
 
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api?username=AmitRastogi23&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AmitRastogi23&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
 ## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AmitRastogi23&theme=tokyonight" />
 </p>
+
+---
 
 <h3 align="center">
 ✨ Code. Build. Solve. Repeat. ✨
