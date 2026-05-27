@@ -12,8 +12,6 @@ Full Stack Developer | DSA Enthusiast | Backend Development Explorer 🚀
   <img src="https://komarev.com/ghpvc/?username=AmitRastogi23&color=0e75b6&style=flat" />
 </p>
 
----
-
 ## 🚀 About Me
 - 🎓 BTech Student  
 - 💻 Full Stack Web Development Enthusiast  
