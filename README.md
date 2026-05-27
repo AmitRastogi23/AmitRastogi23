@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amit Rastogi</h1>
 
 <h3 align="center">
-Full Stack Developer | DSA Enthusiast | MERN Stack Learner 🚀
+Full Stack Developer | DSA Enthusiast | Backend Development Explorer 🚀
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Learner;Backend+Development+Enthusiast;Problem+Solver+%7C+DSA+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Development+Enthusiast;Problem+Solver+%7C+DSA+Enthusiast;Building+Scalable+Web+Applications" />
 </p>
 
 ---
@@ -13,10 +13,10 @@ Full Stack Developer | DSA Enthusiast | MERN Stack Learner 🚀
 ## 🚀 About Me
 
 - 🎓 BTech Student
-- 💻 Passionate about Web Development and Backend Systems
-- 🌱 Currently learning MERN Stack and Advanced DSA
+- 💻 Passionate about Full Stack Web Development
+- ⚡ Strong interest in Data Structures & Algorithms
 - 🚀 Building scalable and real-world projects
-- ⚡ Exploring modern backend technologies
+- 🌱 Exploring modern backend technologies
 
 ---
 
@@ -25,9 +25,6 @@ Full Stack Developer | DSA Enthusiast | MERN Stack Learner 🚀
 <p align="left">
 <a href="https://www.linkedin.com/in/amit-rastogi-313448293/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://github.com/AmitRastogi23" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 </p>
 
@@ -44,8 +41,9 @@ Full Stack Developer | DSA Enthusiast | MERN Stack Learner 🚀
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmitRastogi23&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitRastogi23&layout=compact&theme=tokyonight" height="180em"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=AmitRastogi23&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AmitRastogi23&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -61,7 +59,7 @@ Full Stack Developer | DSA Enthusiast | MERN Stack Learner 🚀
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmitRastogi23&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AmitRastogi23&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -91,5 +89,5 @@ Full Stack Developer | DSA Enthusiast | MERN Stack Learner 🚀
 ---
 
 <h3 align="center">
-✨ “Code. Build. Learn. Repeat.” ✨
+✨ Code. Build. Solve. Repeat. ✨
 </h3>
