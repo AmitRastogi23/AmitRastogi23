@@ -85,7 +85,7 @@ Full Stack Developer | DSA Enthusiast | Backend Development Explorer 🚀
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AmitRastogi23/AmitRastogi23/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/AmitRastogi23/AmitRastogi23/main/dist/github-contribution-grid-snake.svg" />
 </p>
 
 ---
