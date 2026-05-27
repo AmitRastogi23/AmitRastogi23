@@ -8,12 +8,11 @@ Full Stack Developer | DSA Enthusiast | Backend Development Explorer 🚀
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Development+Enthusiast;Problem+Solver+%7C+DSA+Enthusiast;Building+Scalable+Web+Applications" />
 </p>
 
----
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=AmitRastogi23&color=0e75b6&style=flat" />
 </p>
 
+---
 
 ## 🚀 About Me
 - 🎓 BTech Student  
