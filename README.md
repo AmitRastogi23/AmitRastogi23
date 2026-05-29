@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Amit Rastogi</h1>
+<!-- <h1 align="center">Hi 👋, I'm Amit Rastogi</h1>
 
 <h3 align="center">
 Full Stack Developer | DSA Enthusiast | Backend Development Explorer 🚀
-</h3>
+</h3> -->
+
+<p align="center">
+  <img src="Banner.png" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Development+Enthusiast;Problem+Solver+%7C+DSA+Enthusiast;Building+Scalable+Web+Applications" />
