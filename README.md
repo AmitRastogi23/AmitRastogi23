@@ -8,9 +8,13 @@ Full Stack Developer | DSA Enthusiast | Backend Development Explorer 🚀
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Development+Enthusiast;Problem+Solver+%7C+DSA+Enthusiast;Building+Scalable+Web+Applications" />
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=AmitRastogi23&color=0e75b6&style=flat" />
-</p>
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=AmitRastogi23&style=for-the-badge)
+[![Followers](https://img.shields.io/github/followers/AmitRastogi23?style=for-the-badge&logo=github)](https://github.com/AmitRastogi23?tab=followers)
+![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Web%20Development%20%26%20DSA-ff6b6b?style=for-the-badge)
+
+</div>
 
 ## 🚀 About Me
 - 🎓 BTech Student  
@@ -55,6 +59,8 @@ Full Stack Developer | DSA Enthusiast | Backend Development Explorer 🚀
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api?username=AmitRastogi23&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -71,5 +77,5 @@ Full Stack Developer | DSA Enthusiast | Backend Development Explorer 🚀
 ---
 
 <h3 align="center">
-✨ Code. Build. Solve. Repeat. ✨
+🔥 Eat. Sleep. Code. Debug. Repeat. 🔥
 </h3>
