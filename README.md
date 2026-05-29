@@ -5,7 +5,7 @@ Full Stack Developer | DSA Enthusiast | Backend Development Explorer 🚀
 </h3> -->
 
 <p align="center">
-  <img src="Banner.png" width="100%" />
+  <img src="Imagebanner.png" width="100%" />
 </p>
 
 <p align="center">
